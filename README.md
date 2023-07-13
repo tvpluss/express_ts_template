@@ -35,5 +35,9 @@ This repo is still lacking, and I plan to actively update it so it can become a 
   - [ ] TypeORM
   - [x] Sequelize
 - [ ] Container for development
+
   - [ ] Postgres
   - [ ] Redis
+
+- [ ] Swagger
+- [ ] Testing
